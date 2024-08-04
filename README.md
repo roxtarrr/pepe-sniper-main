@@ -31,10 +31,6 @@ Pepe Sniper is a trading bot developed by @roxtar_xbt. It automatically snipes n
 
 - ```npm install```
 
-3. Build the project:
-
-- ```npm run build```
-
 ## Configuration
 
 Edit the .env file with your preferred text editor and set the required environment variables. Here is an example configuration:
@@ -91,7 +87,7 @@ ENABLE_BUY=true
 
 ## Running the Bot
 
-```npm run ssb```
+```npm run pepe```
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
