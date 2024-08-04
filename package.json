@@ -2,7 +2,7 @@
   "name": "pepe-sniper",
   "author": "roxtar",
   "scripts": {
-    "pepe": "ts-node pepe-sniper.ts"
+    "pepe": "ts-node ./dist/pepe-sniper.js"
   },
   "dependencies": {
     "@project-serum/serum": "^0.13.65",
